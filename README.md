@@ -39,4 +39,4 @@ The flowchart of this project
 Performance
 Recognition of ASL alphabets A–Z
 Approximately 95% classification accuracy
-Dataset containing 3,000 images per alphabet class
+Dataset containing 300 images per alphabet class
